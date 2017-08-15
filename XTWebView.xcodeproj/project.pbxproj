@@ -309,6 +309,7 @@
 				4D53C27A1F41A975002D0D12 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
